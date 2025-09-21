@@ -10,9 +10,16 @@
   "background_color": "#000000",
   "theme_color": "#FFDC49",
   "icons": [
-    { "src": "icons/icon.png",  "sizes": "128x128",   "type": "image/png" }
+    {
+      "src": "icons/icon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
   ],
-  "categories": ["utilities", "productivity"],
+  "categories": [
+    "utilities",
+    "productivity"
+  ],
   "related_applications": [],
   "prefer_related_applications": false
 }
